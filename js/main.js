@@ -93,6 +93,7 @@ console.log(students);
 $('#the-basics .typeahead   ').bind('typeahead:select', function(ev, suggestion) {
   console.log('Selection: ');
   console.log(suggestion);
+    $("p.selected-student").text("Selected Student : "+suggestion.name);
 });
 $('#the-basics .typeahead').typeahead({
   hint: true,

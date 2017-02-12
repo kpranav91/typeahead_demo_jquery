@@ -12,6 +12,11 @@ html {
   text-align: center;
 }
 
+.custom-header{
+    text-decoration: underline;
+    color: maroon;
+}
+
 .tt-menu,
 .gist {
   text-align: left;
