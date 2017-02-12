@@ -1,5 +1,8 @@
 # Typeahead demo
 
+#Example Link
+[Live Example](https://kpranav91.github.io/typeahead_demo_jquery/)
+
 ## Plugin Used
 
 * http://twitter.github.io/typeahead.js
