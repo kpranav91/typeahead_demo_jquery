@@ -1,5 +1,11 @@
-# typeahead_demo_jquery
+# Typeahead demo
 
-#Typeahead demo
-1) Search From Local Object
-2) With Custom template for display
+## Plugin Used
+
+* http://twitter.github.io/typeahead.js
+* jquery
+
+## Example Features
+
+* Search From Local Object
+* With Custom template for display
